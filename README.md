@@ -1,10 +1,6 @@
 ## Hello,This is ProZoom‘s Blog
 
-##### [博客文档传送门](https://github.com/ProZoom/Blog/issues)
-
-##### [简书传送门](http://www.jianshu.com/u/8d602265effd)
-
-##### [CSDN传送门](http://blog.csdn.net/u014735704)
+#### [Github](https://github.com/ProZoom/Blog)  -----  [简书](http://www.jianshu.com/u/8d602265effd)  -----  [CSDN](http://blog.csdn.net/u014735704)
 
 ---
 
