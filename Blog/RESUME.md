@@ -2,7 +2,7 @@
 #### Author：ProZoom
 #### Hobby：爱折腾、爱思考，想静静的ProZoom
 
-#### [Github](https://github.com/ProZoom/Blog)  -----  [简书](http://www.jianshu.com/u/8d602265effd)  -----  [CSDN](http://blog.csdn.net/u014735704)
+#### [Github](https://github.com/ProZoom/Blog)  -----  [简书](http://www.jianshu.com/u/8d602265effd)  -----  [CSDN](http://blog.csdn.net/u014735704)  -----  [关于我](https://github.com/ProZoom/Blog/blob/master/Blog/RESUME.md)
 ---
 # Android程序员简历模板
 
