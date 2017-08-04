@@ -17,7 +17,8 @@
   
 
 * [Python](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3APython)
-	* [Python学习笔记]()
+	* [Python基础学习--Python安装](https://github.com/ProZoom/Blog/issues/2)
+	* [Python基础学习--Python基础](https://github.com/ProZoom/Blog/issues/3)
 
 * [TensorFlow](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3ATensorFlow)
  	* [TensorFlow学习笔记]()
