@@ -2,7 +2,7 @@
 
 ##### [博客文档传送门](https://github.com/ProZoom/Blog/issues)
 
-##### [简书传送门]()
+##### [简书传送门](http://www.jianshu.com/u/8d602265effd)
 
 ##### [CSDN传送门](http://blog.csdn.net/u014735704)
 
