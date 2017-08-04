@@ -20,7 +20,7 @@
 	* [Python基础学习笔记](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3APython基础篇)
 
 * [TensorFlow](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3ATensorFlow)
- 	* [TensorFlow学习笔记]()
+ 	* [TensorFlow学习笔记](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3ATensorFlow基础篇)
 	
 	
 	
