@@ -16,8 +16,8 @@
    * [Android面试]()
   
 
-* [Python]()
+* [Python](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3APython)
 	* [Python学习笔记]()
 
-* [TensorFlow]()
+* [TensorFlow](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3ATensorFlow)
  	* [TensorFlow学习笔记]()
