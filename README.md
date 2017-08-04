@@ -1,10 +1,10 @@
 ## Hello,this is ProZoom‘s Blog
 
-##### [博客文档传送门](https://github.com/ZoomProfessor/Blog/issues)
+##### [博客文档传送门](https://github.com/ProZoom/Blog/issues)
 
-##### [简书传送门](https://github.com/ZoomProfessor/Blog/issues)
+##### [简书传送门]()
 
-##### [CSDN传送门](https://github.com/ZoomProfessor/Blog/issues)
+##### [CSDN传送门]()
 
 ---
 
