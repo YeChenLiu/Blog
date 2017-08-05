@@ -6,8 +6,6 @@
 [Github](https://github.com/ProZoom/Blog)|[CSDN](http://blog.csdn.net/u014735704)|[简书](http://www.jianshu.com/u/8d602265effd)|[关于我](https://github.com/ProZoom/Blog/blob/master/Blog/RESUME.md)
 ---
 
----
-
 * [Android](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3AAndroid)
 
  	* [Java & Kotlin](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3AAndroid编程)
