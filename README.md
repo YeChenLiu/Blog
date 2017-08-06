@@ -1,4 +1,6 @@
 ## Hello,This is ProZoom's Blog
+- 2017年8月4日，基于Hexo与Github搭建的个人博客关闭，接下来逐步将文档转移到GitHub、Wiki
+
 <ap>|<a>|<a>|<a>
 ----|---|---|---
 [Github](https://github.com/ProZoom/Blog)|[CSDN](http://blog.csdn.net/u014735704)|[简书](http://www.jianshu.com/u/8d602265effd)|[关于我](https://github.com/ProZoom/Blog/blob/master/Blog/RESUME.md)
