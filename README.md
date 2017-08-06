@@ -5,15 +5,15 @@
 ---
 * [Kotlin](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3AAndroid编程)
 
-	*[Kotlin基础](https://github.com/ProZoom/Blog/labels/Kotlin基础)
-	*[Kotlin in Action翻译](https://github.com/ProZoom/Blog/wiki/Kotlin-in-Action翻译)
+	* [Kotlin基础](https://github.com/ProZoom/Blog/labels/Kotlin基础)
+	
+	* [Kotlin in Action翻译](https://github.com/ProZoom/Blog/wiki/Kotlin-in-Action翻译)
 
 
 * [Android](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3AAndroid)
-
-    	* [Android编程](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3AAndroid编程)
- 	* [Android样式](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3AAndroid样式篇)
-   	* [Android面试](http://blog.csdn.net/u014735704/article/category/6530507)
+    * [Android编程](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3AAndroid编程)
+    * [Android样式](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3AAndroid样式篇)
+    * [Android面试](http://blog.csdn.net/u014735704/article/category/6530507)
   
 
 * [Python](https://github.com/ProZoom/Blog/issues?q=is%3Aissue+is%3Aopen+label%3APython)
